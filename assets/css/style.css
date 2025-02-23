@@ -1431,10 +1431,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .testimonials-avatar-box img {
-    height: 91px;
-    width: 86px;
+    /* height: 1px; */
+    width: 76px;
     border-radius: 8%;
-    box-shadow: 3px 1px 4px 2px #efc372;}
+    /* box-shadow: 3px 1px 4px 2px #efc372;} */
+  }
 
   .testimonials-item-title {
     margin-bottom: 10px;
